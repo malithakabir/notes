@@ -13,3 +13,7 @@ http://download.tensorflow.org/models/object_detection/mask_rcnn_inception_v2_co
 Mask RCNN (TF+Keras)(complete code)<br>
 https://github.com/matterport/Mask_RCNN
 <br><br>
+TF MNIST CONV (first tutorial)<br>
+https://github.com/tensorflow/models/blob/master/tutorials/image/mnist/convolutional.py<br>
+https://raw.githubusercontent.com/tensorflow/models/master/tutorials/image/mnist/convolutional.py
+<br><br>
