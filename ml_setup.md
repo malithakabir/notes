@@ -12,6 +12,9 @@ http://cocodataset.org/#download<br>
 Dataset retrieve<br>
 https://github.com/cocodataset/cocoapi/blob/master/PythonAPI/pycocoDemo.ipynb<br><br>
 
+Required folders<br>
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_locally.md<br><br>
+
 TF model<br>
 http://download.tensorflow.org/models/object_detection/mask_rcnn_inception_v2_coco_2018_01_28.tar.gz<br>
 https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md<br><br>
