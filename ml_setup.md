@@ -25,7 +25,7 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/sampl
 TF label map (.pbtxt)<br>
 https://github.com/tensorflow/models/blob/master/research/object_detection/data/mscoco_label_map.pbtxt<br><br>
 
-TF input prepare<br>
+TF input prepare (.record)<br>
 https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/preparing_inputs.md<br>
 https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10/blob/master/generate_tfrecord.py<br><br>
 
