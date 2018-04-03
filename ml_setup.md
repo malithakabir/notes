@@ -23,7 +23,7 @@ TF model config<br>
 https://github.com/tensorflow/models/blob/master/research/object_detection/samples/configs/mask_rcnn_inception_v2_coco.config<br><br>
 
 TF label map (.pbtxt)<br>
-https://github.com/tensorflow/models/tree/master/research/object_detection/data<br><br>
+https://github.com/tensorflow/models/blob/master/research/object_detection/data/mscoco_label_map.pbtxt<br><br>
 
 TF input prepare<br>
 https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/preparing_inputs.md<br>
