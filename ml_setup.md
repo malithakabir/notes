@@ -22,6 +22,9 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
 TF model config<br>
 https://github.com/tensorflow/models/blob/master/research/object_detection/samples/configs/mask_rcnn_inception_v2_coco.config<br><br>
 
+TF label map (.pbtxt)<br>
+https://github.com/tensorflow/models/tree/master/research/object_detection/data<br><br>
+
 TF input prepare<br>
 https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/preparing_inputs.md<br>
 https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10/blob/master/generate_tfrecord.py<br><br>
