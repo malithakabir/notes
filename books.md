@@ -8,3 +8,6 @@ http://www-bcf.usc.edu/%7Egareth/ISL/ISLR%20Seventh%20Printing.pdf <br><br>
 Important resources <br>
 https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md <br><br>
 
+Mathematical Writing<br>
+http://tex.loria.fr/typographie/mathwriting.pdf<br><br>
+
