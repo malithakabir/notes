@@ -1,4 +1,7 @@
 
+Understanding Analysis by Stephen Abbott<br>
+http://cms.dm.uba.ar/academico/materias/verano2012/taller_de_calculo_avanzado/Libros/Abbott%20-%20Understanding%20Analysis.pdf <br><br>
+
 Introductory Real Analysis by A. N. Kolmogorov, S. V. Fomin, Richard A. Silverman <br>
 http://tomlr.free.fr/Math%E9matiques/Fichiers%20Claude/Auteurs/Kolmogorov/Introductory%20Real%20Analysis%20-%20Kolmogorov%20Fomin(1).pdf<br><br>
 
