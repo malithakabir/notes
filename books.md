@@ -5,6 +5,9 @@ http://cms.dm.uba.ar/academico/materias/verano2012/taller_de_calculo_avanzado/Li
 Introductory Real Analysis by A. N. Kolmogorov, S. V. Fomin, Richard A. Silverman <br>
 http://tomlr.free.fr/Math%E9matiques/Fichiers%20Claude/Auteurs/Kolmogorov/Introductory%20Real%20Analysis%20-%20Kolmogorov%20Fomin(1).pdf<br><br>
 
+Problems in Real Analysis, Second Edition by Charalambos D. Aliprantis, Owen Burkinshaw <br>
+http://bayanbox.ir/view/6039605503262807876/Problems-In-Real-Analysis-A-Workbook-With-Solutions-Aliprantis.pdf<br><br>
+
 Artificial Intelligence - A Modern Approach (3rd Edition) by Stuart Russell and Peter Norvig <br>
 https://doc.lagout.org/science/Artificial%20Intelligence/General/Artificial%20Intelligence%20A%20Modern%20Approach%20-%20Stuart%20J.%20Russell%20%2C%20Peter%20Norvig.pdf<br><br>
 
