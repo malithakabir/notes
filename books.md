@@ -28,3 +28,6 @@ https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md <b
 
 Mathematical Writing<br>
 http://tex.loria.fr/typographie/mathwriting.pdf<br><br>
+
+Deep learning set up (theoretical)<br>
+http://www.iro.umontreal.ca/~bengioy/papers/ftml_book.pdf<br><br>
